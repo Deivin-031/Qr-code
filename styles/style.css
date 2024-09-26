@@ -55,11 +55,11 @@ img {
 }
 
 #prevBtn {
-    left: -40px;
+    left: -20px;
 }
 
 #nextBtn {
-    right: -40px;
+    right: -20px;
 }
 
 .text-overlay {
@@ -79,12 +79,12 @@ img {
 
 .date {
     font-size: 20px;
-    margin-top: -10px;
+    margin-top: 5px;
     color: #ed2424;
 }
 
 .message {
-    margin-top: 20px;
+    margin-top: 0px;
     font-size: 20px;
     color: #ffffff;
 }
