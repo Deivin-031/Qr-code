@@ -64,7 +64,7 @@ img {
 
 .text-overlay {
     position: absolute;
-    top: -80px;
+    top: -50px;
     left: 0;
     right: 0;
     text-align: center;
@@ -84,18 +84,8 @@ img {
 }
 
 .message {
-    margin-top: 0px;
+    margin-top: 10px;
     font-size: 20px;
     color: #ffffff;
 }
 
-/* Media query para telas menores */
-@media (max-width: 600px) {
-    .text-overlay h1 {
-        font-size: 20px; 
-    }
-
-    .message {
-        font-size:18px; 
-    }
-}
